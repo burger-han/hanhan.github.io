@@ -1,6 +1,3 @@
-
-I hold a Ph.D. in Computer Science from [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/).
-
 <div class="mt-3 mb-4">
   <a class="btn btn-outline-dark btn-sm me-2" href="https://github.com/burger-han" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-github"></i>&nbsp;GitHub
@@ -13,7 +10,10 @@ I hold a Ph.D. in Computer Science from [Nanyang Technological University (NTU)]
   </a>
 </div>
 
-My research focuses on **reasoning architectures for large language models (LLMs)**, with particular emphasis on **Chain-of-Thought (CoT)** and **Graph of Thoughts (GoT)**.
+I am a Ph.D. in Computer Science from [Nanyang Technological University](https://www.ntu.edu.sg/).
+
+
+My research focuses on **reasoning architectures for large language models**, with particular emphasis on **Chain-of-Thought ** and **Graph of Thoughts**.
 
 #### Education
 
