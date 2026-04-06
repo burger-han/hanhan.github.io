@@ -17,9 +17,12 @@
 .top-section {
     position: relative;
     padding: 10rem 0;
-    background-position: center;
+    background-color: #1a2744;
+    background-image: url("../assets/img/background.JPG");
+    background-position: center center;
+    background-repeat: no-repeat;
     background-size: cover;
-    height: 25rem;
+    min-height: 25rem;
 }
 
 .top-section h2 {
