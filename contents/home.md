@@ -12,7 +12,6 @@
 
 I am a Ph.D. in Computer Science from [Nanyang Technological University](https://www.ntu.edu.sg/).
 
-My research focuses on **reasoning architectures for large language models**, with particular emphasis on **Chain-of-Thought** and **Graph of Thoughts**.
 
 #### Education
 
@@ -20,4 +19,6 @@ Ph.D., Computer Science, Nanyang Technological University, Singapore.
 
 #### Research Interests
 
-Graph of Thoughts in LLM reasoning; Graph Algorithm; Large Language Models.
+Reasoning architectures for LLM;
+Retrivial Augmented Generation for LLM;
+Graph of Thought; Graph Algorithm.
